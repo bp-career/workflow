@@ -11,9 +11,10 @@ Before you start, you need to set up the correct folder structure on your local 
    - Navigate to a location on your computer where you'd like to store your projects (e.g., Documents or Desktop).
    - Create a new folder and name it `Projects`.
 
+
 2. **Create a folder called `workflow` inside the `Projects` folder**:
    - Inside the `Projects` folder, create another folder named `workflow`.
-
+![image](https://github.com/user-attachments/assets/b3ba03c2-8c48-430b-ad28-38b428c6e9fd)
 ### 2. Install Visual Studio Code (VS Code)
 
 You’ll need Visual Studio Code (VS Code) to work with the code and open a terminal for running commands.
@@ -24,6 +25,7 @@ You’ll need Visual Studio Code (VS Code) to work with the code and open a term
 2. Once installed, **open the `workflow` folder**:
    - Open VS Code.
    - From the **File** menu, select **Open Folder** and choose the `workflow` folder you just created inside `Projects`.
+![image](https://github.com/user-attachments/assets/a71a9f33-3a76-44e5-8a10-e0f391042c75)
 
 ### 3. Install Required Software: Node.js
 
@@ -40,11 +42,13 @@ Before running the project, you need to install **Node.js**, which is required t
      npm -v
      ```
    - This should return the version numbers of Node.js and npm. If you see the versions, you're good to go!
+![image](https://github.com/user-attachments/assets/86cced63-ef40-402e-bc98-e127cba3a284)
 
 ### 4. Add the Project with ShadCN CLI Tool
 
 1. Open the **Terminal** in VS Code:
    - In VS Code, go to the **Terminal** menu and select **New Terminal** to open the integrated terminal.
+![image](https://github.com/user-attachments/assets/f796189a-0e39-4241-80b9-c65cebe4ca66)
 
 2. Run the following command in the terminal:
    ```bash
@@ -64,6 +68,7 @@ Before running the project, you need to install **Node.js**, which is required t
      ```bash
      cd my-app
      ```
+![image](https://github.com/user-attachments/assets/7db7b952-cc17-4c36-be98-f601e59d6470)
 
 2. **Start the development server**:
    - To start the app locally, type the following command and press **Enter**:
@@ -72,12 +77,14 @@ Before running the project, you need to install **Node.js**, which is required t
      ```
 
 3. The terminal will display the local server URL (usually something like `http://localhost:3000/`).
+![image](https://github.com/user-attachments/assets/f6038abd-ada5-4c06-91d0-207deb33a19c)
 
 ### 6. Open the Project in Your Browser
 
 1. Open **Google Chrome** (or your preferred browser).
 2. Copy and paste the local domain URL from the terminal into the browser’s address bar (e.g., `http://localhost:3000/`).
 3. Your project should now be up and running in the browser.
+<img width="1162" alt="image" src="https://github.com/user-attachments/assets/9e71cf36-177d-4ac0-93f2-efa23e7b8e6c">
 
 ---
 
